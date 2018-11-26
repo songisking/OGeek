@@ -1,6 +1,6 @@
 # OGeek算法挑战赛
 ## 赛题与baseline
-赛题与数据：https://tianchi.aliyun.com/competition/information.htm?spm=5176.11165320.5678.2.29a711a3nQFbgF&raceId=231688
+赛题与数据：https://tianchi.aliyun.com/competition/information.htm?spm=5176.11165320.5678.2.29a711a3nQFbgF&raceId=231688   
 开源baseline: https://zhuanlan.zhihu.com/p/46482521  
 开源baseline说明：
 * 特征：使用了CTR从原数据中提取特征,如单字段点击率和组合字段点击率。
